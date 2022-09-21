@@ -25,4 +25,6 @@ Yousch( Your School), School Management System API
   - Login
   - Enyoy!!
   
+  - Original repo where i was contibutor-> https://github.com/Mondestin/yousch
+  
 
