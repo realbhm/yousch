@@ -16,4 +16,13 @@ Yousch( Your School), School Management System API
   - MySQL
   - MariaDB
   
+# How to use
+  - Install mailhog
+  - Start server
+  - Go to forgot password
+  - Type your mail adress
+  - Open mailhog (You received a password)
+  - Login
+  - Enyoy!!
+  
 
